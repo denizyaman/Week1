@@ -16,15 +16,10 @@ public class Main {
             double kdvtutari=(tutar*KDV1)/100;
             System.out.println("Kdv Tutarı="+kdvtutari);
             System.out.println("Kdv'li Fiyat="+ (tutar+kdvtutari));
-
         }else if(tutar>1000){
             double kdvtutari1=(tutar*KDV2)/100;
             System.out.println("Kdv Tutarı="+kdvtutari1);
             System.out.println("Kdv'li Fiyat="+(tutar+kdvtutari1));
         }
-
-
-
-
     }
 }
