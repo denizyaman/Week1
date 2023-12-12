@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Kdv hesaplama/Kdv hesaplama.iml" filepath="$PROJECT_DIR$/Kdv hesaplama/Kdv hesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Week1.iml" filepath="$PROJECT_DIR$/.idea/Week1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Kdv hesaplama/dikucgendehipotenushesaplama/dikucgendehipotenushesaplama.iml" filepath="$PROJECT_DIR$/Kdv hesaplama/dikucgendehipotenushesaplama/dikucgendehipotenushesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hipotenus/hipotenus.iml" filepath="$PROJECT_DIR$/hipotenus/hipotenus.iml" />
       <module fileurl="file://$PROJECT_DIR$/islemonceligi/islemonceligi.iml" filepath="$PROJECT_DIR$/islemonceligi/islemonceligi.iml" />
     </modules>
   </component>
