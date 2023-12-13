@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DaireDilimininAlani/DaireDilimininAlani.iml" filepath="$PROJECT_DIR$/DaireDilimininAlani/DaireDilimininAlani.iml" />
       <module fileurl="file://$PROJECT_DIR$/Kdv hesaplama/Kdv hesaplama.iml" filepath="$PROJECT_DIR$/Kdv hesaplama/Kdv hesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManavKasa/ManavKasa.iml" filepath="$PROJECT_DIR$/ManavKasa/ManavKasa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Taksimetre/Taksimetre.iml" filepath="$PROJECT_DIR$/Taksimetre/Taksimetre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VucutKitleIndeksiHesaplama/VucutKitleIndeksiHesaplama.iml" filepath="$PROJECT_DIR$/VucutKitleIndeksiHesaplama/VucutKitleIndeksiHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Week1.iml" filepath="$PROJECT_DIR$/.idea/Week1.iml" />
       <module fileurl="file://$PROJECT_DIR$/islemonceligi/islemonceligi.iml" filepath="$PROJECT_DIR$/islemonceligi/islemonceligi.iml" />
       <module fileurl="file://$PROJECT_DIR$/ucgeninalani/ucgeninalanı.iml" filepath="$PROJECT_DIR$/ucgeninalani/ucgeninalanı.iml" />
