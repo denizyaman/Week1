@@ -7,6 +7,7 @@ public class Main {
         System.out.print("km değerini giriniz:");
         km= inp.nextDouble();
         if (km >= 1 ) {
+            //Değerin sıfırdan büyük olduğu durumda ücret hesabı yapılır
             total += (km * perkm);
             total = (total <= 20) ? 20 : total;
             System.out.print(total);

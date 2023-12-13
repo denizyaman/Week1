@@ -14,9 +14,10 @@ public class Main {
         System.out.print(" Patlıcanın kilosu "+ patlicanTl + " Patlıcan kaç kilo?");
         patlicanKg= inp.nextDouble();
         if ((armutKg>=0 && elmaKg>=0 && domatesKg>=0 && muzKg>=0 && patlicanKg>=0)) {
+            //Kilogram değerleri 0 yada 0dan büyük olduğu durumda hesaplama yapılır
             total = (armutTl * armutKg) + (elmaTl * elmaKg) + (domatesTl * domatesKg) + (muzTl * muzKg) + (patlicanTl * patlicanKg);
             System.out.println(total);
-        }else{
+        }else{//Negatif değer girildiğinde hesaplama yapılmaz
             System.out.println("Pozitif değer giriniz.");
         }
     }
