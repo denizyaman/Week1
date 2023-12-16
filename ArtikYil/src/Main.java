@@ -9,13 +9,15 @@ public class Main {
         year = inp.nextInt();
         result = year % 4;//Artık yıl hesabı yapılır.
         if (year > 0) {//Sıfırdan büyük değer kontrolü yapılır.
-            if (result == 0) {
-                System.out.print(year + " bir artık yıldır.");
-            } else {
-                System.out.print(year + " bir artık yıl değildir.");
-            }
-        } else {
-            System.out.print("Pozitif bir değer giriniz.");
+           if (result==0 ){
+               if((year%100==0) && (year%400!=0)){//100'ün tam katı olup 400'e bölünemeyen sayılar bulunur.
+                   System.out.print(year+" bir artık yıl değildir.");
+               }else{
+                   System.out.print(year+" bir artık yıldır");
+               }
+           }else{
+               System.out.print(year+" bir artık yıl değildir.");
+           }
         }
     }
 }
